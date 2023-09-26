@@ -1,11 +1,11 @@
-package com.shalem.tax.calculation;
+package com.kumar.tax.calculation;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Collection;
 
-import com.shalem.tax.taxproperty.AddProperty;
-import com.shalem.tax.taxproperty.AddVehicle;
+import com.kumar.tax.taxproperty.AddProperty;
+import com.kumar.tax.taxproperty.AddVehicle;
 
 public class TaxCalculation {
 	

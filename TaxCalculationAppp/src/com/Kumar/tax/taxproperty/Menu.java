@@ -1,4 +1,4 @@
-package com.shalem.tax.taxproperty;
+package com.kumar.tax.taxproperty;
 
 import java.util.Scanner;
 

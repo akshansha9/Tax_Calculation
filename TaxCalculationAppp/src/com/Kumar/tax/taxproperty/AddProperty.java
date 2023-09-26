@@ -1,6 +1,6 @@
-package com.shalem.tax.taxproperty;
+package com.kumar.tax.taxproperty;
 
-import com.shalem.tax.calculation.TaxCalculation;
+import com.kumar.tax.calculation.TaxCalculation;
 
 public class AddProperty {
 	

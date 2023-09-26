@@ -1,9 +1,9 @@
-package com.shalem.tax.display;
+package com.kumar.tax.display;
 
 import java.util.ArrayList;
 
-import com.shalem.tax.taxproperty.AddProperty;
-import com.shalem.tax.taxproperty.AddVehicle;
+import com.kumar.tax.taxproperty.AddProperty;
+import com.kumar.tax.taxproperty.AddVehicle;
 
 public class Display {
 	

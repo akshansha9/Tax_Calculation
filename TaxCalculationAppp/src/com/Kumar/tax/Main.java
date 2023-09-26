@@ -1,15 +1,11 @@
-package com.shalem.tax;
-
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
-import com.shalem.tax.calculation.TaxCalculation;
-import com.shalem.tax.display.Display;
-import com.shalem.tax.input.Input;
-import com.shalem.tax.taxproperty.AddProperty;
-import com.shalem.tax.taxproperty.AddVehicle;
-import com.shalem.tax.taxproperty.Menu;
+import com.kumar.tax.calculation.TaxCalculation;
+import com.kumar.tax.display.Display;
+import com.kumar.tax.input.Input;
+import com.kumar.tax.taxproperty.AddProperty;
+import com.kumar.tax.taxproperty.AddVehicle;
+import com.kumar.tax.taxproperty.Menu;
 
 public class Main {
 
@@ -21,7 +17,9 @@ public class Main {
 		Total tot=new Total();
 		TaxCalculation t=new TaxCalculation();
 		Scanner sc=new Scanner(System.in);
-		System.out.println("WELCOME TO TAX CALCULATION APP");
+		 System.out.println("+--------------------------------------+");
+      System.out.println("|  WELCOME TO THE TAX CALCULATION APP  |");
+      System.out.println("+--------------------------------------+");
 		Input in=new Input();
 		in.LoginInput();
 		Menu menu=new Menu();
@@ -102,9 +100,7 @@ public class Main {
 					tot.getTotalTax(l1, av);
 					menu.menuDisplay();
 					break;
-				case 4:
-					System.out.println("THANKS VISIT AGAIN.");
-					break;
+			
 			
 					
 		}

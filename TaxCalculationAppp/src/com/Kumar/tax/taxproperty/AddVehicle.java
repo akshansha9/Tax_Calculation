@@ -1,4 +1,4 @@
-package com.shalem.tax.taxproperty;
+package com.kumar.tax.taxproperty;
 
 public class AddVehicle {
 	 	public String registrationNumber;

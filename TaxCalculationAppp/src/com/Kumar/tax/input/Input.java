@@ -1,9 +1,9 @@
-package com.shalem.tax.input;
+package com.kumar.tax.input;
 
 import java.util.Scanner;
 
-import com.shalem.tax.taxproperty.AddProperty;
-import com.shalem.tax.taxproperty.AddVehicle;
+import com.kumar.tax.taxproperty.AddProperty;
+import com.kumar.tax.taxproperty.AddVehicle;
 
 public class Input {
 	

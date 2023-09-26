@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\com",
+    "\\src\\com\\Kumar",
+    "\\src\\com\\Kumar\\tax",
+    "\\src\\com\\Kumar\\tax\\calculation",
+    "\\src\\com\\Kumar\\tax\\display",
+    "\\src\\com\\Kumar\\tax\\input",
+    "\\src\\com\\Kumar\\tax\\taxproperty"
+  ],
+  "SelectedNode": "\\src\\com\\Kumar\\tax\\taxproperty\\AddProperty.java",
+  "PreviewInSolutionExplorer": false
+}
