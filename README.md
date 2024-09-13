@@ -1,2 +1,2 @@
 # Tax_Calculation
-Java project
+Java project for tax calculation.
